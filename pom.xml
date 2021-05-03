@@ -139,6 +139,9 @@
     <osgi.import>*;resolution:=optional</osgi.import>
     <osgi.dynamicImport>*</osgi.dynamicImport>
     <spotbugs.onlyAnalyze>org.apache.ibatis.*</spotbugs.onlyAnalyze>
+    <sonar.projectKey>MEr-O_mybatis-3</sonar.projectKey>
+    <sonar.organization>mer-o</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
